@@ -16,7 +16,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apvale&show_icons=true&locale=en&layout=compact&theme=dracula" alt="apvale" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apvale&show_icons=true&locale=en&layout=compact&theme=dracula" alt="apvale" /></p>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apvale&show_icons=true&locale=en&theme=dracula" alt="apvale" /></p>
 
